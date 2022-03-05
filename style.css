@@ -141,3 +141,58 @@ h4{
     transform: translateY(-20px);
     
 }
+.offer{
+    background: radial-gradient(#fff,rgba(238, 80, 7, 0.808));
+    margin-top: 80px;
+    padding: 30px;
+
+}
+.col-2 .offer-img {
+    padding: 45px;
+}
+.small{
+    color: bisque;
+}
+.testmontional{
+padding-top: 100px;
+}
+.testmontional .col-3{
+text-align: center;
+padding: 40px 20px;
+box-shadow: 0 0 20px 0px rgba(238, 80, 7, 0.808) ;
+cursor: pointer;
+transition: transform 0.5s;
+}
+.testmontional .col-3 img {
+    width: 200px;
+    margin-top: 50%;
+    border-radius: 50%;
+}
+.testmontional .col-3:hover {
+    transform:  translateY(-10px);
+}
+.fa.fa-quote-left{
+    font-size: 34px;
+    color: #b83636;
+}
+.col-3 p {
+    font-size:  12px;
+    margin: 12px 0;
+    color: #b83636;
+}
+.testmontional .col-3 h3 {
+    font-weight: 600;
+    color: #c53a3a;
+    font-size: 16px
+}
+.brands{
+    margin:  100px auto;
+}
+.col-5 {
+    width:  160px;
+
+}
+.col-5 img {
+    width: 100%;
+    cursor: pointer;
+}
